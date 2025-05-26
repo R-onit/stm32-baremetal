@@ -1,0 +1,9 @@
+Debug/
+.settings/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.launch
+*.log
