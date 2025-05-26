@@ -1,7 +1,5 @@
-#define STM32F103xB
 #include "stm32f1xx.h"
 #include <stdint.h>
-
 
 #define PIN5       (1U << 5)
 #define SYS_CLK    16000000U
